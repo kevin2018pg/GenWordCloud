@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time : 2020/7/18 10:07
-# @Author : Chendong
-# @Email : chendong@qiyunhj.com
-# @IDE: PyCharm
-# @ModuleName : keywords_tfidf
-# @Description: 获取关键词
+# @Author : Kevin
 import jieba.posseg as pseg
 import os
 

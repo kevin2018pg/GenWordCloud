@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time : 2020/7/19 14:21
-# @Author : Chendong
-# @Email : chendong@qiyunhj.com
-# @IDE: PyCharm
-# @ModuleName : create_cloud
-# @Description: 生成词云图current
-
+# @Author : Kevin
 import os
 import matplotlib.pyplot as plt
 from keywords_tfidf import *
